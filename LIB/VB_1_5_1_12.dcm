@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VB_1,5_1_12
+D 12 V ac 1 Output Through Hole PCB Transformer, 1.5VA
+K
+F 
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=BLOCK
+PartNumber=VB 1,5/1/12
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2017-02-08 12:08:29
+Downloaded=2025-10-24 13:19:42
+3D=N
