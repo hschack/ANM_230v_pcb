@@ -4946,6 +4946,46 @@
 		)
 		(uuid "ff9f747a-6163-4b44-aded-d4a529623f8e")
 	)
+	(label "RELAY_OUT"
+		(at 154.94 170.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "17901c7e-5ef1-4876-ac99-16495abb1537")
+	)
+	(label "START"
+		(at 154.94 264.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2b4bc882-6ee7-4726-81a5-79a326d09d58")
+	)
+	(label "VALVE_OUT"
+		(at 154.94 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46c7c685-8e1e-4296-bfdb-8d13158f6153")
+	)
+	(label "BLEED_OFF"
+		(at 154.94 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce15d31f-a9ab-41b5-a374-1184557e1d04")
+	)
 	(symbol
 		(lib_id "Transistor_BJT:BC817")
 		(at 127 246.38 0)
